@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Pratibha 👋
 
-<!--
-**Pratibha111222/Pratibha111222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with internship experience.
+Worked on real-world projects using Python, Django,
+Django REST Framework, React, and Java Spring Boot.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python, Django, DRF, Java, Spring Boot
+- Database: MySQL
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- Internship: Frontend (React) & Backend collaboration
+- Team project using Java Spring Boot
+
+### 📌 Projects
+- Job Portal (Django)
+- Task Tracker
+- Quiz Application
+- Portfolio Website
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/pratibha-chaurasiya
+
